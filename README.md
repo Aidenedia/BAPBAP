@@ -3,7 +3,10 @@ BAPBAP random character picker
 
 
 
-https://user-images.githubusercontent.com/40171727/232362356-9bc58747-be87-473d-bcd7-14c2ce928337.mp4
+
+
+
+https://user-images.githubusercontent.com/40171727/232362521-5d1846c4-9a87-4e4b-9545-0b90ce4896d0.mov
 
 
 
