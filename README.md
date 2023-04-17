@@ -2,6 +2,7 @@
 BAPBAP random character picker
 
 
+![](ezgif-4-5258e027b5 (1).gif)
 
 
 
