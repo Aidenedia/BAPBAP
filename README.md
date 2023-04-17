@@ -15,9 +15,3 @@ https://user-images.githubusercontent.com/40171727/232362521-5d1846c4-9a87-4e4b-
 
 
 Once installed, open "BAPBAP Random Char" , and after finishing the setup wizard, it will open the application, and send a shortcut to your desktop
-
-
-You need .net runtime 4.7.2 to use the application, the download to it is here: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer
-
-
-
