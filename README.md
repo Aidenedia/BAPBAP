@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/40171727/232919599-e04a99c7-7332-4632-
 
 to open, click on "BAPBAP random character generator.exe"
 
-If you want, you can right click on "BAPBAP random character generator.exe" and then click on "create shortcut" and bring that to your desktop.
+If you want, you can right click on "BAPBAP random character generator.exe" and then click on "create shortcut" and bring that to your desktop, I would then take away the "-shortcut message"
 
 
 
