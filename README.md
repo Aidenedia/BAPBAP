@@ -8,6 +8,10 @@ If you want, you can right click on "BAPBAP random character generator.exe" and 
 
 
 
+https://user-images.githubusercontent.com/40171727/232920813-3871c4e0-8c01-488d-8bef-abcf56bd8add.mp4
+
+
+
 Press the checkboxes of the character u dont want it to generate.
 
 
